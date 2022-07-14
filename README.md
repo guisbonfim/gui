@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on as a traine in Junior Company
 - 🌱 I’m currently learning HTML, CSS and JavaScript
-- 📫 How to reach me: guilhermebonfim@gmail.com
+- 📫 How to reach me: guilhermebonfim0218@gmail.com
 - ⚡ Fun fact: graduating in Computer Engineering - UFBA 🎓
 
 ### Estou aprendendo
